@@ -11,7 +11,7 @@ You can reach us at the email
  - `mary84060117[at]gmail.com`
  - `Ivan's email`
  - `weihong.ong[at]u.nus.edu.sg`
- - `Nanxin's email`
+ - `nancyqinilm[at]gmail.com`
  - `ryanozx[at]u.nus.edu.sg` 
 
 ## Project team
@@ -46,13 +46,13 @@ You can reach us at the email
 
 ### Qin Nanxin
 
-<img src="images/johndoe.png" width="200px">
+<img src="images/infibeyond.png" width="200px">
 
-[[github](http://github.com/johndoe)]
-[[portfolio](team/johndoe.md)]
+[[github](http://github.com/infibeyond)]
+[[portfolio](team/infibeyond.md)]
 
 * Role: Developer, Documentation
-* Responsibilities: Responsible for the quality of various project documents.
+* Responsibilities: Ensures the quality of various project documents.
 
 ### Ryan Ong
 
