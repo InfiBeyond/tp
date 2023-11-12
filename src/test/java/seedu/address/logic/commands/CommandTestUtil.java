@@ -44,6 +44,7 @@ public class CommandTestUtil {
     public static final String VALID_TAG_FRIEND = "friend";
     public static final String VALID_TAG_REMOTE = "remote";
     public static final String VALID_TAG_FULL_TIME = "full time";
+
     public static final String NAME_DESC_AMY = " " + PREFIX_PERSON_NAME + VALID_NAME_AMY;
     public static final String NAME_DESC_BOB = " " + PREFIX_PERSON_NAME + VALID_NAME_BOB;
     public static final String PHONE_DESC_AMY = " " + PREFIX_PERSON_PHONE + VALID_PHONE_AMY;
@@ -87,6 +88,9 @@ public class CommandTestUtil {
     public static final String INVALID_LEAVE_DESCRIPTION_DESC = " " + PREFIX_LEAVE_DESCRIPTION + "Going to childcare&";
     public static final String INVALID_LEAVE_DATE_START_DESC = " " + PREFIX_LEAVE_DATE_START + "2023-13-11";
     public static final String INVALID_LEAVE_DATE_END_DESC = " " + PREFIX_LEAVE_DATE_END + "2024-12-32";
+    public static final String INVALID_LEAVE_LATE_DATE_START_DESC = " " + PREFIX_LEAVE_DATE_START
+            + VALID_LEAVE_DATE_END;
+    public static final String INVALID_LEAVE_EARLY_DATE_END_DESC = " " + PREFIX_LEAVE_DATE_END + VALID_LEAVE_DATE_START;
     public static final String INVALID_LEAVE_STATUS_DESC = " " + PREFIX_LEAVE_STATUS + "NONSENSE";
 
     static {
